@@ -1,0 +1,54 @@
+.item {
+  margin: 1rem 0;
+}
+
+.image {
+  width: 100%;
+}
+
+.image img {
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.content {
+  text-align: center;
+  padding: 2px;
+}
+
+.content h3 {
+  font-size: 1.75rem;
+  color: #125d98;
+}
+
+.content address {
+  font-size: 1.5rem;
+  color: #ff7171;
+}
+
+.content p {
+  font-size: 1.25rem;
+  color: #16212d;
+}
+
+.actions {
+  padding: 1.5rem;
+  text-align: center;
+}
+
+.actions button {
+  font: inherit;
+  cursor: pointer;
+  color: #005f99;
+  border: 1px solid #ff7600;
+  background-color: #f1c6d3;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+}
+
+.actions button:hover,
+.actions button:active {
+  background-color: whitesmoke;
+}
