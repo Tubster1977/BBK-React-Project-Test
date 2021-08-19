@@ -65,7 +65,7 @@ function ArchivesPage() {
           </div>
           <div className={classes.image}>
             <img
-              src={process.env.PUBLIC_URL + "/images/image 3.jpg"}
+              src={process.env.PUBLIC_URL + "/images/image 3.jpeg"}
               alt="bumble bee on lavendar"
             />
           </div>
@@ -87,7 +87,7 @@ function ArchivesPage() {
           </div>
           <div className={classes.image}>
             <img
-              src={process.env.PUBLIC_URL + "/images/image 4.jpg"}
+              src={process.env.PUBLIC_URL + "/images/image 4.jpeg"}
               alt="peacock butterfly on wild pink flowers"
             />
           </div>
